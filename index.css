@@ -1,0 +1,3 @@
+@charset "UTF-8";
+html,body,div,span{margin:0;padding:0}
+html,body,#Container,.page{width:100%;height:100%;background: rgba(0,0,50,1)}
